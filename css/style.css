@@ -1,0 +1,14 @@
+body {
+    background: #c3d6e7;
+}
+h2{
+    color:red; 
+    font-family: fantasy;
+}
+header{
+    margin-top: 50px;
+}
+footer{
+    margin-bottom: 50px;
+    font-size: 40px;
+}
